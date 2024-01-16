@@ -4,7 +4,11 @@
 
 - I'm currently excited about learning Rust and figuring out how to get undergraduates to appreciate ownership
 
+- You can find more about me, including courses I teach and publications, at https://dferry.github.io/
+
 - You can reach me at dferry@slu.edu
+
+
 
 <!--
 **dferry/dferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
