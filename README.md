@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am an experienced computer systems instructor at Saint Louis University in Saint Louis Missouri
+
+- I'm currently excited about learning Rust and figuring out how to get undergraduates to appreciate ownership
+
+- You can reach me at dferry@slu.edu
+
 <!--
 **dferry/dferry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
